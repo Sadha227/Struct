@@ -1,0 +1,20 @@
+﻿"Struct.exe" (Win32). Загружено "D:\Sasha Kononenko\Struct\Debug\Struct.exe". Символы загружены.
+"Struct.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"Struct.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"Struct.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"Struct.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"Struct.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"Struct.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x314c завершился с кодом 0 (0x0).
+"Struct.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+"Struct.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"Struct.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". 
+"Struct.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". 
+"Struct.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"Struct.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"Struct.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+Поток 0x2e30 завершился с кодом -1073741510 (0xc000013a).
+Поток 0x2e10 завершился с кодом -1073741510 (0xc000013a).
+Поток 0x33b4 завершился с кодом -1073741510 (0xc000013a).
+Поток 0xf6c завершился с кодом -1073741510 (0xc000013a).
+Программа "[7084] Struct.exe" завершилась с кодом -1073741510 (0xc000013a).
